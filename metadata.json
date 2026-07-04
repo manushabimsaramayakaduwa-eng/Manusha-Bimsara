@@ -1,0 +1,6 @@
+{
+  "name": "Ananda Sastralaya Kotte Scout Group",
+  "description": "Official portal of the Ananda Sastralaya Kotte Scout Group, featuring troop sections, interactive badge trackers, money book ledger, event calendar, uniform guides, and online membership management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
